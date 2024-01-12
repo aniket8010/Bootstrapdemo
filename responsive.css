@@ -7,13 +7,13 @@
     }
     .social_links{
         bottom: -20px !important;
-        left: 58px !important;
+        left: 6px !important;
     }
-    .social_links .b_bg_purpule{
+    .social_links .a_bg_purpule{
         width: 60px;
         height: 60px;
     }
-    .social_links .b_bg_purpule i{
+    .social_links .a_bg_purpule i{
         font-size: 35px;
     }
 }
